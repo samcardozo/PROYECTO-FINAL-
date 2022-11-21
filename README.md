@@ -21,7 +21,7 @@ d.	El soporte integrado, para JavaScript, TypeScript y Node.js
 
 •	Python: es un lenguaje de programación de código abierto, multiplataforma, versátil y fácil de aprender y usar por los desarrolladores; solo requiere un sistema operativo actualizado, un editor de código y un buen smartphone, computador o Tablet. Su uso es muy amplio, sirve para scripting y automatización, para desarrollo de software, para análisis de datos, machine learning e inteligencia artificial, blockchain, desarrollo de video juegos, desarrollo web, entre otros.
 
-![image](https://user-images.githubusercontent.com/114431024/202961468-494e10fc-f699-42e9-83f8-efa6f4c12936.png)
+![image](https://user-images.githubusercontent.com/114431024/202961803-b888c8d6-15c6-4dd1-abbb-1dbdf7b8451c.png)
 
 Características:
 a.	Sintaxis básica
@@ -43,13 +43,19 @@ Figura 1. Código REBELS – Palabras Rápidas
 
 # Interfaz
 •	Inicio: la Figura 2, muestra la interfaz de inicio, la cual desctibe las instrucciones de REBELS. 
+
 ![image](https://user-images.githubusercontent.com/114431024/202960875-6d53512e-3e91-4f72-be56-c10a179aa37d.png)
+
 Figura 2. Interfaz de inicio
 •	Durante el juego, se mostrará una ventana que visualiza las letras seleccionadas arbitrariamente por REBELS, para que el jugador rápidamente ingrese la palabra que contenga dicha letra (Figura 3).
+
 ![image](https://user-images.githubusercontent.com/114431024/202960922-5b9e9df7-e725-42ca-b689-5094077face2.png)
+
 Figura 3. Interfaz del juego activo.
 •	Obtención de puntos: en cada nivel el jugador ingresará las palabras en lo posible sin agotar las tres vidas, y obteniendo el mayor puntaje posible. (Figura 4)
+
 ![image](https://user-images.githubusercontent.com/114431024/202961056-89b7a469-3fd3-42b8-ac2d-47e2ce4d1277.png)
+
 Figura 4. Interfaz fin del juego
 
 # Conclusiones
