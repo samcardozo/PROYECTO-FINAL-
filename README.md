@@ -25,7 +25,7 @@ b.	Productivo, ya que permite programar con menos líneas de código.
 c.	Biblioteca estándar con códigos reutilizables.
 d.	Compatible con lenguajes de programación como Java, C y C++.
 
-# 4.	Código de REBELS - Palabras Rápidas.
+# Código de REBELS - Palabras Rápidas.
 Para la creación de REBELS, se utilizaron las siguientes librerías: 
 •	Pygame: con el lenguaje de programación de Python, esta librería es utilizada para el desarrollo de videojuegos en 2D; esta basada en SDL, que permite la gestión de gráficos, imágenes, audio y periféricos.
 En el desarrollo del juego, las librerías de Pygame permitieron la creación del fondo de las ventanas que se visualizan en el inicio y durante el juego.
