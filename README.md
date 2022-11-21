@@ -10,7 +10,7 @@ Este juego está diseñado para entrenar de una manera divertida, la agilidad me
 El juego afianza la capacidad de concentración, de lenguaje, de comunicación, y la estimulación cognitiva.
 # Programas usados
 •	Visual Studio Code (VS Code 1.73): es el editor de código fuente más popular, por su optimo uso y agilidad para el desarrollo de proyectos; es multiplataforma, ya que se encuentra disponible para Windows, macOS y Linux. Fue desarrollado por Microsoft, para ser ejecutable en el escritorio, mediante el uso de innumerables extensiones que permiten escribir, depurar y ejecutar código en diversos lenguajes de programación. 
-
+![image](https://user-images.githubusercontent.com/114431024/202961419-48ca8486-dd72-4668-bad1-ba8296cb1f7b.png)
 Entre sus principales características están:
 a.	La intelliSense, que permite editar código, así como autocompletar y resaltar la sintaxis, incluso de manera personalizada.
 b.	La depuración que permite encontrar errores en el código rápidamente antes de la ejecución de este.
@@ -18,6 +18,7 @@ c.	Las extensiones (para C++, C#, Java, Python, PHP, Go, .NET), ayudan a persona
 d.	El soporte integrado, para JavaScript, TypeScript y Node.js
 
 •	Python: es un lenguaje de programación de código abierto, multiplataforma, versátil y fácil de aprender y usar por los desarrolladores; solo requiere un sistema operativo actualizado, un editor de código y un buen smartphone, computador o Tablet. Su uso es muy amplio, sirve para scripting y automatización, para desarrollo de software, para análisis de datos, machine learning e inteligencia artificial, blockchain, desarrollo de video juegos, desarrollo web, entre otros.
+![image](https://user-images.githubusercontent.com/114431024/202961468-494e10fc-f699-42e9-83f8-efa6f4c12936.png)
 
 Características:
 a.	Sintaxis básica
@@ -29,6 +30,8 @@ d.	Compatible con lenguajes de programación como Java, C y C++.
 Para la creación de REBELS, se utilizaron las siguientes librerías: 
 •	Pygame: con el lenguaje de programación de Python, esta librería es utilizada para el desarrollo de videojuegos en 2D; esta basada en SDL, que permite la gestión de gráficos, imágenes, audio y periféricos.
 En el desarrollo del juego, las librerías de Pygame permitieron la creación del fondo de las ventanas que se visualizan en el inicio y durante el juego.
+![image](https://user-images.githubusercontent.com/114431024/202961537-c418e144-734c-41b4-940a-3554481ef836.png)
+
 •	String o formato de cadena de caracteres personalizado: el código de REBELS, utiliza esta librería para la selección de las letras que se le dispondrán al jugador como base para los tres niveles del juego.
 •	Rrandom: permite la selección aleatoria de letras, en los diferentes niveles del juego y para cada uno de los jugadores que interactúen con el.
 •	Sys: librería que permitió la implementación de la ventana de juego, así como el uso del teclado/mouse.
